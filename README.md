@@ -1,13 +1,13 @@
-# Fashion Trend Prediction with Decision Trees 👗👕
+# Fashion Trend Prediction with Decision Trees 
 
-## 📌 Overview
+## Overview
 This project uses machine learning in R to predict whether a clothing item is **trending** based on its category, gender, price, and ratings.  
 The model is built using a **Decision Tree Classifier** (`rpart`) and visualized with `rpart.plot`.  
 The goal is to provide interpretable AI insights into fashion trends, with clear visualizations that highlight how decisions are made.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - **Source**: [Myntra Fashion Dataset on Kaggle](https://www.kaggle.com)  
 - **Size**: ~500,000 rows (recommended sample: 10,000 rows for faster computation).  
 - **Key Columns**:
@@ -26,7 +26,7 @@ This transforms the problem into a **classification task**.
 
 ---
 
-## 🤖 Model
+##  Model
 - **Algorithm**: Decision Tree Classifier (`rpart`)  
 - **Why Decision Trees?**
   - Simple and interpretable.  
@@ -38,11 +38,4 @@ This transforms the problem into a **classification task**.
 - `rpart` → Decision Tree model  
 - `rpart.plot` → Flowchart visualization  
 
----
 
-## ⚙️ Installation
-Clone the repository and install required packages in R:
-
-```bash
-git clone https://github.com/your-username/fashion-trend-prediction.git
-cd fashion-trend-prediction
