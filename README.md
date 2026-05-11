@@ -8,7 +8,8 @@ The goal is to provide interpretable AI insights into fashion trends, with clear
 
 
 ##  Dataset
-- **Source**: [Myntra Fashion Dataset on Kaggle](https://www.kaggle.com)  
+- **Source**: [Myntra Fashion Dataset on Kaggle](https://www.kaggle.com)
+- hugging face  
 - **Size**: ~500,000 rows (recommended sample: 10,000 rows for faster computation).  
 - **Key Columns**:
   - `BrandName`
