@@ -5,7 +5,7 @@ This project uses machine learning in R to predict whether a clothing item is **
 The model is built using a **Decision Tree Classifier** (`rpart`) and visualized with `rpart.plot`.  
 The goal is to provide interpretable AI insights into fashion trends, with clear visualizations that highlight how decisions are made.
 
----
+--
 
 ##  Dataset
 - **Source**: [Myntra Fashion Dataset on Kaggle](https://www.kaggle.com)  
